@@ -1,4 +1,5 @@
 dev1
 dev4
 dev5
-dev7
+if x then dev7
+else dev6
